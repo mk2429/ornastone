@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1d7ec7b.css",
+    "main.js": "/static/js/main.1d944102.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/Yoni Edit _ Performance _ 16_9 _ 12 seconds _ with end slide.mp4": "/static/media/Yoni Edit _ Performance _ 16_9 _ 12 seconds _ with end slide.99576c9be2d891c562f2.mp4",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.b1d7ec7b.css.map": "/static/css/main.b1d7ec7b.css.map",
+    "main.1d944102.js.map": "/static/js/main.1d944102.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.1d944102.js"
+  ]
+}
